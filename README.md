@@ -1,5 +1,7 @@
 Run this command in the terminal before the first run -> **pip install wordcloud nltk selenium**  
 
+
+## About project
 - Build a Flask web app for extracting and analyzing YouTube comments using Python.
 
 - Utilize technologies like Flask, YouTube API, and a Sentiment Analysis Library.
